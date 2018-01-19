@@ -19,7 +19,7 @@
               <div class="col-md-1"></div>
               <div class="col-md-2 ">
                   <ul id="co">
-                      <li><a href="">cote1</a></li>
+                      <li><a href="">cotdgssgdd1</a></li>
                       <li><a href="">cote2</a></li>
                       <li><a href="">cote3</a></li>
                   </ul>
