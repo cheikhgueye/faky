@@ -11,6 +11,11 @@ $(document).ready(function(){
    
         
     })
- 
+    $('.a').on('click',function(){
+        $('.et').text(Number($('.et').text())+1)
+        $('.et').css({
+            'color':'black'
+        })
+    })
 
 })
